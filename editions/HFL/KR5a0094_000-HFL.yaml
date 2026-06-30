@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5a0094/HFL/v1/juan/0
+seq: 0
+front:
+  text: 謹按靈寳經法秋一凡九品陰功及消禳災害并自用祈福度厄行功存身爲元始天尊坐空浮五色獅子之上居日光中
+  hash: sha256:a6ca4abc075576afccfdd45fcfd6d8a11f428bf94efcb57a2b6dbc2b882ad69c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0094_HFL_000-001a, image: hfl/0047/0047-004.png}
+body:
+  text: 天地父母國王及天象可以神誦上丹田神誦四千遍爲灾厄及他人可以心誦中丹田心誦三千遍爲一切亡殁幽魂可以炁誦下丹田炁誦三千遍每一存思須得十遍十遍爲一過百遍爲十過十言一叩齒以召神百言一嚥津以和炁錯一宇却前三十字以誦之越一字再覆五十字以誦之誦則下聲而誦之詠則朗吟以詠聲使音句周竟勿令匆速苟貪遍數常令神魂悅暢香炁綿綿不絶於室若以音聲華美急逐遍數亦無靈感空尸誦經欲飛返沈非徒无益亦招輕誦之愆玉几仙降筆混淪未判中存得一之靈大塊既分内抱生三之寳散而爲炁聚則成文彌綸空洞之中羅絡虛玄之表元綱流演立天地之精根萬範開張布陰陽之血脉五文普植三景齊明開天三十二重結炁百千萬道于以保制劫運輔贊皇圖作迴生起死之玄機爲入聖超凡之要妙演三洞皆言有作教一國盡達无爲藏靈寳於身田納黍珠於性地舉一念入大浮黎二開重樓登鬱羅蕭臺常親自己之虚皇頓悟惟心之元始悠悠庶類皆成不死眞神蠢蠢羣靈咸曰長生大聖
+  hash: sha256:0aeca1260c37ee130785ef020eb8d467f5f2eccdbac970c52ab1c6f4c46754d9
+metadata:
+  title: 太上洞玄靈寶無量度人上品經法
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-28 23:36:50.086840'
+  source:
+    repository: kanripo
+    path: KR5a0094/KR5a0094_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:ce1c8e78fbd3c7f5cf20fd8fbe616c9e9bf3b3701b9bbbfdeee83ed5d8a016e1
