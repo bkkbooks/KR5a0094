@@ -22,25 +22,25 @@ entity_encoding:
 assets:
   parts:
   - {seq: 0, filename: KR5a0094_000-CK-KZ-jye.yaml, hash: 'sha256:b27061c52543e63730c199672bd0557adcb3626a23bfb0394eca0d6466541a9c'}
-  - {seq: 1, filename: KR5a0094_001-CK-KZ-jye.yaml, hash: 'sha256:22916a95801317df258879108cf5ec4548a18b6cba75e61cc1e278341e0f70de'}
+  - {seq: 1, filename: KR5a0094_001-CK-KZ-jye.yaml, hash: 'sha256:85bfa73e16943641ed7d57d6a3a1a1d0cf3b13ff458c22f51d02c2adeb29ad92'}
   - {seq: 2, filename: KR5a0094_002-CK-KZ-jye.yaml, hash: 'sha256:c12f423781c2303ab98a54373887449c6486ebaaabf1086a26de18af7accca70'}
-  - {seq: 3, filename: KR5a0094_003-CK-KZ-jye.yaml, hash: 'sha256:79bad6230a007421ebb0d1c937efbcb3006e7870da0d0ec3535d2d7d1ea341f1'}
+  - {seq: 3, filename: KR5a0094_003-CK-KZ-jye.yaml, hash: 'sha256:a8a006d08c2322edc3766a50444e26f2a34b710ac54a4167506a2e9aeba042ba'}
   - {seq: 4, filename: KR5a0094_004-CK-KZ-jye.yaml, hash: 'sha256:c62f6c6b668edcc13615c1eba7cb3e63852244104ddcdafc1ca9834af98ab3d3'}
-  - {seq: 5, filename: KR5a0094_005-CK-KZ-jye.yaml, hash: 'sha256:2ea1c482c89734c7fcd117de25bbceca34ccc9924cbe18834755ee4b7fdbba4c'}
+  - {seq: 5, filename: KR5a0094_005-CK-KZ-jye.yaml, hash: 'sha256:f523ff6c644ed15ea29690d4993f6fbe17b09aa2fb14e9eceb7090c98aa3136e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR5a0094_001-CK-KZ-jye.markers.yaml, hash: 'sha256:256a501a2d5b32c5f2b39a0e703026d5d73f3c67d1181a72db19966c4e9cace4'}
+  - {seq: 1, role: markers, filename: assets/KR5a0094_001-CK-KZ-jye.markers.yaml, hash: 'sha256:5c660e4e0ba1a68eaade63124242c4a1abbd459dfa8922a70f95f88900e7516e'}
   - {seq: 2, role: markers, filename: assets/KR5a0094_002-CK-KZ-jye.markers.yaml, hash: 'sha256:437d604ac9cb676331d7e469331e39bbf60ea5685913638395d185309078d56f'}
-  - {seq: 3, role: markers, filename: assets/KR5a0094_003-CK-KZ-jye.markers.yaml, hash: 'sha256:e1cdc9215730b5bc7baf3fe1640b9369e941225088caba5bf9646a79edc76c73'}
+  - {seq: 3, role: markers, filename: assets/KR5a0094_003-CK-KZ-jye.markers.yaml, hash: 'sha256:e5572e5ffaf48e0b0d853dddf9030aed1e7b85317bf7ad533304ef9526744601'}
   - {seq: 4, role: markers, filename: assets/KR5a0094_004-CK-KZ-jye.markers.yaml, hash: 'sha256:b40ccf3333a058b47e89a1a96d027b5dc2869aefb789662a1f94f1006981b000'}
-  - {seq: 5, role: markers, filename: assets/KR5a0094_005-CK-KZ-jye.markers.yaml, hash: 'sha256:b9a1aab157df03a32e7db078caebe53804574df9195309da6e58d128ec37dc78'}
+  - {seq: 5, role: markers, filename: assets/KR5a0094_005-CK-KZ-jye.markers.yaml, hash: 'sha256:2d514f33745b38e6d35c428ac90d5986940c5b5e280710072a9e66e8f0103abe'}
 table_of_contents:
 - ref:
     seq: 1
     marker_id: KR5a0094_CK-KZ-jye_001-h21
     span:
     - body
-    - 0
-    - 183
+    - 6311
+    - 6494
   label: 召仙曹總章咒(左手玉淸文右手上淸文)¶<md:KR5a0094_HFL_001-028a>
   type: section
   level: 2
@@ -49,8 +49,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_001-h22
     span:
     - body
-    - 183
-    - 1305
+    - 6494
+    - 7616
   label: 發爐咒
   type: section
   level: 2
@@ -59,8 +59,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_001-h23
     span:
     - body
-    - 1305
-    - 1359
+    - 7616
+    - 7670
   label: 引炁三十二過¶<md:KR5a0094_HFL_001-033a>
   type: section
   level: 2
@@ -69,8 +69,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_001-h24
     span:
     - body
-    - 1359
-    - 1394
+    - 7670
+    - 7705
   label: 東八天
   type: section
   level: 2
@@ -79,8 +79,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_001-h25
     span:
     - body
-    - 1394
-    - 1430
+    - 7705
+    - 7741
   label: 南八天
   type: section
   level: 2
@@ -89,8 +89,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_001-h26
     span:
     - body
-    - 1430
-    - 1465
+    - 7741
+    - 7776
   label: 西八天
   type: section
   level: 2
@@ -99,8 +99,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_001-h27
     span:
     - body
-    - 1465
-    - 1663
+    - 7776
+    - 7974
   label: 北八天
   type: section
   level: 2
@@ -109,8 +109,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_001-h28
     span:
     - body
-    - 1663
-    - 1776
+    - 7974
+    - 8087
   label: 東向誦經
   type: section
   level: 2
@@ -279,8 +279,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h2
     span:
     - body
-    - 0
-    - 47
+    - 442
+    - 489
   label: 第一篇　(五篇符形載大法)
   type: section
   level: 2
@@ -289,8 +289,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h3
     span:
     - body
-    - 47
-    - 88
+    - 489
+    - 530
   label: 第二篇
   type: section
   level: 2
@@ -299,8 +299,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h4
     span:
     - body
-    - 88
-    - 136
+    - 530
+    - 578
   label: 第三篇
   type: section
   level: 2
@@ -309,8 +309,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h5
     span:
     - body
-    - 136
-    - 183
+    - 578
+    - 625
   label: 第四篇
   type: section
   level: 2
@@ -319,8 +319,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h6
     span:
     - body
-    - 183
-    - 926
+    - 625
+    - 1368
   label: 第五篇¶<md:KR5a0094_HFL_003-003b>
   type: section
   level: 2
@@ -329,8 +329,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h7
     span:
     - body
-    - 926
-    - 1218
+    - 1368
+    - 1660
   label: 昇玄章
   type: section
   level: 1
@@ -339,8 +339,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h8
     span:
     - body
-    - 1218
-    - 1959
+    - 1660
+    - 2401
   label: 元綱流演法
   type: section
   level: 2
@@ -349,8 +349,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h9
     span:
     - body
-    - 1959
-    - 2113
+    - 2401
+    - 2555
   label: 契玄章
   type: section
   level: 1
@@ -359,8 +359,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h10
     span:
     - body
-    - 2113
-    - 3112
+    - 2555
+    - 3554
   label: 成眞章
   type: section
   level: 1
@@ -369,8 +369,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h11
     span:
     - body
-    - 3112
-    - 3351
+    - 3554
+    - 3793
   label: 銜華章
   type: section
   level: 1
@@ -379,8 +379,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h12
     span:
     - body
-    - 3351
-    - 3374
+    - 3793
+    - 3816
   label: 三界章¶<md:KR5a0094_HFL_003-015b>
   type: section
   level: 1
@@ -389,8 +389,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h13
     span:
     - body
-    - 3374
-    - 3573
+    - 3816
+    - 4015
   label: 第一欲界飛空之音
   type: section
   level: 2
@@ -399,8 +399,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h14
     span:
     - body
-    - 3573
-    - 3697
+    - 4015
+    - 4139
   label: 第二色界魔王之章
   type: section
   level: 2
@@ -409,8 +409,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h15
     span:
     - body
-    - 3697
-    - 5324
+    - 4139
+    - 5766
   label: 龜山丹皇飛玄紫文空洞靈章
   type: section
   level: 1
@@ -419,8 +419,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h16
     span:
     - body
-    - 5324
-    - 5461
+    - 5766
+    - 5903
   label: 敬形章
   type: section
   level: 1
@@ -429,8 +429,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_003-h17
     span:
     - body
-    - 5461
-    - 5693
+    - 5903
+    - 6135
   label: 天寶章
   type: section
   level: 1
@@ -479,8 +479,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h3
     span:
     - body
-    - 0
-    - 0
+    - 500
+    - 500
   label: 大梵隱語正音
   type: section
   level: 2
@@ -489,8 +489,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h4
     span:
     - body
-    - 0
-    - 64
+    - 500
+    - 564
   label: 東方八天
   type: section
   level: 3
@@ -499,8 +499,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h5
     span:
     - body
-    - 64
-    - 128
+    - 564
+    - 628
   label: 南方八天
   type: section
   level: 3
@@ -509,8 +509,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h6
     span:
     - body
-    - 128
-    - 192
+    - 628
+    - 692
   label: 西方八天
   type: section
   level: 3
@@ -519,8 +519,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h7
     span:
     - body
-    - 192
-    - 256
+    - 692
+    - 756
   label: 北方八天
   type: section
   level: 3
@@ -529,8 +529,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h8
     span:
     - body
-    - 256
-    - 352
+    - 756
+    - 852
   label: 中央
   type: section
   level: 3
@@ -539,8 +539,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h9
     span:
     - body
-    - 352
-    - 810
+    - 852
+    - 1310
   label: 龍章鳳炁大梵之文(皆諸天隱諱隱名見中篇註)
   type: section
   level: 3
@@ -549,8 +549,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h10
     span:
     - body
-    - 810
-    - 810
+    - 1310
+    - 1310
   label: 元始靈書下篇　　　　　　　　　　天眞皇人撰¶<md:KR5a0094_HFL_005-005b>
   type: section
   level: 2
@@ -559,8 +559,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h11
     span:
     - body
-    - 810
-    - 874
+    - 1310
+    - 1374
   label: 東方八天
   type: section
   level: 3
@@ -569,8 +569,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h12
     span:
     - body
-    - 874
-    - 938
+    - 1374
+    - 1438
   label: 南方八天
   type: section
   level: 3
@@ -579,8 +579,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h13
     span:
     - body
-    - 938
-    - 1002
+    - 1438
+    - 1502
   label: 西方八天
   type: section
   level: 3
@@ -589,8 +589,8 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h14
     span:
     - body
-    - 1002
-    - 1142
+    - 1502
+    - 1642
   label: 北方八天
   type: section
   level: 3
@@ -599,9 +599,9 @@ table_of_contents:
     marker_id: KR5a0094_CK-KZ-jye_005-h15
     span:
     - body
-    - 1142
-    - 3369
+    - 1642
+    - 3869
   label: 太極眞人頌曰
   type: section
   level: 2
-hash: sha256:4a5dd9e1a2efb06bd2f78563863de47960aad1800f8caa6ecb9cbf169d42e719
+hash: sha256:e115043722446b852a598ad277b5e7b93eef336b7fed014b1115473c78457972
